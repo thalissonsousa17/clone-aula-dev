@@ -1,0 +1,25 @@
+// {
+//   "name": "clone-aula-dev",
+//   "version": "1.0.0",
+//   "description": "Curso de FullStack",
+//   "homepage": "https://github.com/thalissonsousa17/clone-aula-dev#readme",
+//   "bugs": {
+//     "url": "https://github.com/thalissonsousa17/clone-aula-dev/issues"
+//   },
+//   "repository": {
+//     "type": "git",
+//     "url": "git+https://github.com/thalissonsousa17/clone-aula-dev.git"
+//   },
+//   "license": "MIT",
+//   "author": "",
+//   "main": "index.js",
+//   "scripts": {
+//     "dev": "next dev"
+//   },
+//   "dependencies": {
+//     "next": "^13.1.6",
+//     "react": "^18.2.0",
+//     "react-dom": "^18.2.0"
+//   }
+// }
+{
